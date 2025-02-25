@@ -10,7 +10,7 @@
 
 <strong>Today's developer quotes</strong>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)<br>
 <br>
 ## 🛠️ My Skills
 
@@ -45,7 +45,7 @@
 
 ## Let's Connect
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
-<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500"><p align="center">
   <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/></a>
 	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/></a>
 	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
