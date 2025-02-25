@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"></p>
 <h1 align="center">Hi , I'm Rituraj Singh <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+and+Developer;Data+Scientist;Cyber+Security+Developer;AI%20|%20ML%20|%20DS%20|%20CyS%20|Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia&color=0077FF"></a>
+ img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+and+Developer;Data+Scientist;Cyber+Security+Developer;AI%20|%20ML%20|%20DS%20|%20CyS%20|Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia&color=0077FF"></a>
 </p>
 <hr/>
 <h4 align="center"><p>Hello folks, I"m Rituraj, a Dual Degree Bachelor's Student in<br> <ins>B.S. in Data Science & Application at IIT,Madras</ins> and <ins>B.E. in Computer Science and Engineering with Artificial Intelligence at DSI</ins>.</p><p>Driven Software Engineering professional specializing in AI, with expertise in Computer Vision, NLP, LLMs, VLMs, and Neural Networks, plus a keen interest in Cybersecurity. Passionate about building and deploying AI models, optimizing workflows, and advancing intelligent automation. Enthusiastic about coding, designing, and innovating while tackling new challenges and continuously learning. Open to collaboration, research opportunities, and creating impactful solutions to solve complex problems.</p></h4>
@@ -44,7 +44,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=SenticWaveX&theme=swift)](https://github.com/RiturajSingh2004/SenticWaveX) 
 
 ## Let's Connect
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
 <p align="center">
   <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/></a>
 	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/></a>
