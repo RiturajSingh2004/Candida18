@@ -40,11 +40,11 @@
 
 <p align="center">
   <a href="https://.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"alt="Gmail"/></a>
-	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube&theme=light" alt="Youtube"/></a>
+	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/></a>
+	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube"/></a>
 	
 </p>
 
