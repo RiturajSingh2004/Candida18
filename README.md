@@ -10,7 +10,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiturajSingh2004&theme=algolia" alt="RiturajSingh2004" /></p>
 
 ## 🛠️ My Skills
 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-##Github Stats
+## 🔥 Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiturajSingh2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiturajSingh2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,13 +33,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiturajSingh2004&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiturajSingh2004&theme=ayu_mirage"></img>
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </div>
 <br>
 
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
