@@ -43,6 +43,12 @@
 &emsp; 
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,c,nodejs,express,git,react,mongodb,github&perline=7" />
+  </a>
+</p>
+
 ### 👉 Frontend Development
 
 <p align="left"> 
