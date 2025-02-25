@@ -37,6 +37,9 @@
 </div>
 <br>
 
+## Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)
 
 ## Let's Connect
 
