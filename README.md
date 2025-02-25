@@ -7,6 +7,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RiturajSingh2004&label=Rituraj%20Singh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="RiturajSingh2004" /> </p>
 
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠️ My Skills
 
