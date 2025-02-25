@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,julia,r,flask,tensorflow,pytorch,scikitlearn,opencv,html,css,tailwindcss,js,ts,react,vue,next,nodejs,flutter,mysql,sqlite,mongodb,fastapi,docker,terraform,grafana,vscode,anaconda,jupyternotebook,colab,powershell,arduino,vercel,firebase,git,github,kali&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,julia,r,flask,tensorflow,pytorch,scikitlearn,opencv,html,css,tailwindcss,js,ts,react,vue,next,nodejs,flutter,mysql,sqlite,mongodb,fastapi,docker,terraform,grafana,gcp,vscode,anaconda,powershell,arduino,vercel,firebase,git,github,kali&perline=7" />
   </a>
 </p>
 
