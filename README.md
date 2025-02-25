@@ -50,8 +50,8 @@
 	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/>&nbsp;</a>
 	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>&nbsp;</a>
 	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>&nbsp;</a>
-	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>&nbsp;</a>
-	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://cdn-icons-png.flaticon.com/64/15527/15527679.png?size=50" alt="Youtube"/></a>
+	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram?size=64" alt="Instagram"/>&nbsp;</a>
+	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://cdn-icons-png.flaticon.com/64/15527/15527679.png" alt="Youtube"/></a>
 	
 </p>
 <p align="center">
