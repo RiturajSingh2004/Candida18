@@ -30,7 +30,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiturajSingh2004&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiturajSingh2004&theme=ayu_mirage"></img><br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect whole experience or skill level.
 
 </div>
 <br>
@@ -39,13 +39,12 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="https://.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:ritturaj2004@gmail.com"><img src="<img src="https://skillicons.dev/icons?i=gmail"</a>
+	<a href="https://github.com/RiturajSingh2004"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
 
