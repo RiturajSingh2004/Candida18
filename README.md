@@ -39,7 +39,8 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation)](https://github.com/RiturajSingh2004/CounterAct-Mitigation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis&theme=swift)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation&theme=swift)](https://github.com/RiturajSingh2004/CounterAct-Mitigation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=SenticWaveX&theme=swift)](https://github.com/RiturajSingh2004/SenticWaveX)
 
 ## Let's Connect
 
