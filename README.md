@@ -39,7 +39,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/6721/6721060.png" alt="Website"/></a>
+  <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/></a>
 	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/></a>
 	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
