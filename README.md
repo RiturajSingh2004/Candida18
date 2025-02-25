@@ -44,15 +44,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=SenticWaveX&theme=swift)](https://github.com/RiturajSingh2004/SenticWaveX) 
 
 ## Let's Connect
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500"><p align="center">
-  <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/></a>
-	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/></a>
-	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube"/></a>
+
+<p align="center">
+  <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/>&nbsp;</a>
+	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/>&nbsp;</a>
+	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>&nbsp;</a>
+	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>&nbsp;</a>
+	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>&nbsp;</a>
+	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube"/>&nbsp;</a>
 	
 </p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500"><img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
 
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
