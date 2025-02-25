@@ -3,7 +3,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+and+Developer;Data+Scientist;Cyber+Security+Developer;AI%20|%20ML%20|%20DS%20|%20CyS%20|Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am a SDE at JP Morgan Chase & Co. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
+<h4 align="center"><p>Chasing excellence as a Software Engineering professional specializing in AI, with expertise in Computer Vision (CV), Natural Language Processing (NLP), Large Language Models (LLMs), Vision-Language Models (VLMs), and Neural Networks, along with an interest in Cybersecurity. Passionate about building and deploying AI models, optimizing workflows, and driving intelligent automation. Seeking innovative projects and research opportunities to advance scalability and operational excellence.</p>
+<p>I enjoy coding, designing, innovating, and experimenting. As an enthusiastic and social individual, I love taking on new challenges and learning new skills. With experience in various programming languages and frameworks, I am dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities, I strive to create innovative solutions and solve complex problems.</p></h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
