@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:ritturaj2004@gmail.com"><img src="<img src="https://skillicons.dev/icons?i=gmail"</a>
+	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"</a>
 	<a href="https://github.com/RiturajSingh2004"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
