@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"></p>
 <h1 align="center">Hi , I'm Rituraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+and+Developer;Data+Scientist;Cyber+Security+Developer;AI%20|%20ML%20|%20DS%20|%20CyS%20|Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia&color=0077FF"></a>
