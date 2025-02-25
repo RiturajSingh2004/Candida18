@@ -53,7 +53,7 @@
 	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 	
 </p>
-
+<br><br><br>
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="400"><img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="200"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="400">
 </p>
