@@ -40,7 +40,7 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis&theme=swift)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation&theme=swift)](https://github.com/RiturajSingh2004/CounterAct-Mitigation) <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis&theme=swift)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation&theme=swift)](https://github.com/RiturajSingh2004/CounterAct-Mitigation) <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=SenticWaveX&theme=swift)](https://github.com/RiturajSingh2004/SenticWaveX) 
 
 ## Let's Connect
