@@ -39,7 +39,7 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation)](https://github.com/RiturajSingh2004/CounterAct-Mitigation)
 
 ## Let's Connect
 
