@@ -51,10 +51,10 @@
 	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>&nbsp;</a>
 	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>&nbsp;</a>
 	<a href="https://instagram.com/riturajsingh.paradiser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>&nbsp;</a>
-	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube"/>&nbsp;</a>
+	<a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube"/></a>
 	
 </p>
-<p align="center">
+<p align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500"><img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
 </p>
 
